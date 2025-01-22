@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nursery/static/css/main.4046608a.css",
-    "main.js": "/nursery/static/js/main.f2caca4f.js",
-    "index.html": "/nursery/index.html",
-    "main.4046608a.css.map": "/nursery/static/css/main.4046608a.css.map",
-    "main.f2caca4f.js.map": "/nursery/static/js/main.f2caca4f.js.map"
+    "main.css": "/2100031111/nursery.git/static/css/main.4046608a.css",
+    "main.js": "/2100031111/nursery.git/static/js/main.f2caca4f.js",
+    "index.html": "/2100031111/nursery.git/index.html",
+    "main.4046608a.css.map": "/2100031111/nursery.git/static/css/main.4046608a.css.map",
+    "main.f2caca4f.js.map": "/2100031111/nursery.git/static/js/main.f2caca4f.js.map"
   },
   "entrypoints": [
     "static/css/main.4046608a.css",
